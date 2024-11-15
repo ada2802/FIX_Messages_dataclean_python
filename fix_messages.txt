@@ -1,0 +1,3 @@
+8=FIX.4.4 | 9=88 | 35=A | 49=fix_client | 56=BTNL_PF | 34=1 | 52=20061124-15:47:02.951 | 98=0 | 108=30 | 553=10 | 554=AUTHTOKEN | 141=Y | 10=CHECKSUM |
+8=FIX.4.4 | 9=57 | 35=0 | 34=2 | 49=BTNL_DC | 56=BTNL_DC | 52=20210525-16:59:02.564 | 10=012 |
+8=FIX.4.4 | 9=95 | 35=5 | 49=BTNL_PF | 56=fix_client | 34=25 | 52=20061124-15:59:50.524  | 58=NormalLogoutInitiatedByCounterparty | 10=054 |
